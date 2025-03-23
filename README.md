@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I´m Fabio! 👋<br><br>- 🔭 I’m currently working on a personal finance app using Java and Spring. Check it here -> (link)<br>- 🌱 I’m currently learning Java and JavaScript<br>- 👯 I’m looking to collaborate on web and mobile projects using Java, JavaScript or Python.<br>- 📫 How to reach me: fabio101515@gmail.com
+## Hi, I´m Fabio! 👋<br><br> 🔭 I’m currently working on a personal finance app using Java and Spring. Check it here -> (link)<br> 🌱 I’m currently learning Java and JavaScript<br> 👯 I’m looking to collaborate on web and mobile projects using Java, JavaScript or Python.<br> 📫 How to reach me: fabio101515@gmail.com
 
 
 ## 🌐 Socials:
